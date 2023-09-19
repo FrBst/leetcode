@@ -3,3 +3,8 @@ pub mod design_parking_system_1603;
 pub mod diameter_of_binary_tree_543;
 pub mod summary_ranges_228;
 pub mod max_pair_sum_in_an_array_2815;
+pub mod pascals_triangle_118;
+pub mod group_the_people_given_the_group_size_they_belong_to_1282;
+pub mod dota2_senate_649;
+pub mod min_cost_to_connect_all_points_1584;
+pub mod the_k_weakest_rows_in_a_matrix_1337;
