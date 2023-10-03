@@ -1,6 +1,10 @@
+use std::{io, fs, error::Error};
+
+use solutions::remove_colored_pieces_if_both_neighbors_are_the_same_color_2038;
+
 mod common;
 mod solutions;
 
 fn main() {
-    // solutions::diameter_of_binary_tree_543::Solution::diameter_of_binary_tree(Option::None);
+    remove_colored_pieces_if_both_neighbors_are_the_same_color_2038::Solution::winner_of_game(String::from("AAAABBBB"));
 }
