@@ -15,3 +15,5 @@ pub mod decoded_string_at_index_880;
 pub mod reverse_words_in_a_string;
 pub mod remove_colored_pieces_if_both_neighbors_are_the_same_color_2038;
 pub mod number_of_good_pairs_1512;
+pub mod design_hashmap_706;
+pub mod majority_element_ii_229;
