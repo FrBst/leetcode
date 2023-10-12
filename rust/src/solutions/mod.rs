@@ -17,3 +17,8 @@ pub mod remove_colored_pieces_if_both_neighbors_are_the_same_color_2038;
 pub mod number_of_good_pairs_1512;
 pub mod design_hashmap_706;
 pub mod majority_element_ii_229;
+pub mod find_first_and_last_position_of_element_in_sorted_array_34;
+pub mod first_bad_version_278;
+pub mod count_words_obtained_after_adding_a_letter_2135;
+pub mod check_if_strings_can_be_made_equal_with_operators_ii_2840;
+pub mod reverse_bits_190;
