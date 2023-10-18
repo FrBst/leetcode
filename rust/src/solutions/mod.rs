@@ -22,3 +22,5 @@ pub mod first_bad_version_278;
 pub mod count_words_obtained_after_adding_a_letter_2135;
 pub mod check_if_strings_can_be_made_equal_with_operators_ii_2840;
 pub mod reverse_bits_190;
+pub mod number_of_students_doing_homework_at_a_given_time_1450;
+pub mod count_good_nodes_in_binary_tree_1448;
