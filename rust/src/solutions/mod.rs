@@ -24,3 +24,7 @@ pub mod check_if_strings_can_be_made_equal_with_operators_ii_2840;
 pub mod reverse_bits_190;
 pub mod number_of_students_doing_homework_at_a_given_time_1450;
 pub mod count_good_nodes_in_binary_tree_1448;
+pub mod flatten_nested_list_iterator_341;
+pub mod find_the_largest_value_in_each_tree_row_515;
+pub mod binary_trees_with_factors_823;
+pub mod find_the_original_array_of_prefix_xor_2433;
