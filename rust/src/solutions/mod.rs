@@ -28,3 +28,7 @@ pub mod flatten_nested_list_iterator_341;
 pub mod find_the_largest_value_in_each_tree_row_515;
 pub mod binary_trees_with_factors_823;
 pub mod find_the_original_array_of_prefix_xor_2433;
+pub mod last_moment_before_all_ants_fall_out_of_a_plank_1503;
+pub mod find_the_winner_of_an_array_game_1535;
+pub mod seat_reservation_manager_1845;
+pub mod eliminate_maximum_number_of_monsters_1921;
