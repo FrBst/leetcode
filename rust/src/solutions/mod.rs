@@ -38,3 +38,6 @@ pub mod reduction_operations_to_make_an_the_array_elements_equal_1887;
 pub mod diagonal_traverse_ii_1424;
 pub mod maximum_number_of_coins_you_can_get_1561;
 pub mod sum_of_absolute_differences_in_a_sorted_array_1685;
+pub mod knight_dialer_935;
+pub mod number_of_ways_to_divide_a_long_corridor_2147;
+pub mod check_if_two_string_arrays_are_equivalent_1662;

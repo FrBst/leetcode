@@ -1,3 +1,5 @@
+import common.ListNode;
+
 class PartitionList_86 {
     public ListNode partition(ListNode head, int x) {
 
