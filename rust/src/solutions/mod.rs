@@ -41,3 +41,7 @@ pub mod sum_of_absolute_differences_in_a_sorted_array_1685;
 pub mod knight_dialer_935;
 pub mod number_of_ways_to_divide_a_long_corridor_2147;
 pub mod check_if_two_string_arrays_are_equivalent_1662;
+pub mod largest_odd_number_in_string_1903;
+pub mod design_a_food_rating_system_2353;
+pub mod image_smoother_661;
+pub mod build_an_array_with_stack_operations_1441;
