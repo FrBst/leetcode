@@ -45,3 +45,7 @@ pub mod largest_odd_number_in_string_1903;
 pub mod design_a_food_rating_system_2353;
 pub mod image_smoother_661;
 pub mod build_an_array_with_stack_operations_1441;
+pub mod maximum_score_after_splitting_the_string_1422;
+pub mod paths_crossing_1496;
+pub mod decode_ways_91;
+pub mod range_sum_of_bst_938;
