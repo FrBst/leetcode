@@ -49,3 +49,4 @@ pub mod maximum_score_after_splitting_the_string_1422;
 pub mod paths_crossing_1496;
 pub mod decode_ways_91;
 pub mod range_sum_of_bst_938;
+pub mod minimum_number_of_steps_to_make_two_strings_anagram_1347;
