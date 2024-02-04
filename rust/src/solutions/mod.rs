@@ -51,3 +51,6 @@ pub mod decode_ways_91;
 pub mod range_sum_of_bst_938;
 pub mod minimum_number_of_steps_to_make_two_strings_anagram_1347;
 pub mod first_missing_positive_41;
+pub mod climbing_stairs_70;
+pub mod minimum_falling_path_sum_931;
+pub mod house_robber_198;
